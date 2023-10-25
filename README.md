@@ -25,6 +25,8 @@ az storage account create --resource-group AZ-104 --name az104sa25102023 --sku S
 Browse code samples
 https://learn.microsoft.com/en-us/samples/browse/?expanded=azure&products=azure-resource-manager
 
+Naming example : devusc-webvm01
+
 ## availability sets
 An availability set is a logical feature you can use to ensure a group of related virtual machines are deployed together. The grouping helps to prevent a single point of failure from affecting all of your machines.
 
@@ -39,6 +41,5 @@ Azure Virtual Machine Scale Sets are an Azure Compute resource that you can use 
 ## Implement Azure App Service plans
 In Azure App Service, an application runs in an Azure App Service plan. An App Service plan defines a set of compute resources for a web application to run.
 
-devusc-webvm01
 
 
