@@ -3,7 +3,7 @@ https://learn.microsoft.com/en-us/training/paths/az-104-administrator-prerequisi
 gh repo create AZ-104 --public --source=. --remote=upstream
 
 ## push
-git init -b main
+- git init -b main
 git add .
 git commit -m "first commit"
 git branch -M main
