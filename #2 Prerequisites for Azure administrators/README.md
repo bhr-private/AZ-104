@@ -1,5 +1,16 @@
 https://learn.microsoft.com/en-us/training/paths/az-104-administrator-prerequisites/
 
+gh repo create AZ-104 --public --source=. --remote=upstream
+
+## push
+git init -b main
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/bhr-private/AZ-104
+git push -u origin main
+
+
 
 #2
 
