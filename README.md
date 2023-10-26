@@ -45,3 +45,6 @@ In Azure App Service, an application runs in an Azure App Service plan. An App S
 - replicate  on-premises network in the cloud
 - Subnets provide a way for you to implement logical divisions within your virtual network
 - Azure Bastion protects  virtual machines by browser-based connectivity without the need to expose public IP addresses.
+- Azure Virtual Network peering lets you connect virtual networks in the same or different regions, so resources in both networks can communicate with each other.
+- Azure Private Link provides private connectivity from a virtual network to Azure platform as a service (PaaS), customer-owned, or Microsoft partner services. 
+
