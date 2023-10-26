@@ -41,5 +41,7 @@ Azure Virtual Machine Scale Sets are an Azure Compute resource that you can use 
 ## Implement Azure App Service plans
 In Azure App Service, an application runs in an Azure App Service plan. An App Service plan defines a set of compute resources for a web application to run.
 
-
-
+## Configure virtual networks
+- replicate  on-premises network in the cloud
+- Subnets provide a way for you to implement logical divisions within your virtual network
+- Azure Bastion protects  virtual machines by browser-based connectivity without the need to expose public IP addresses.
