@@ -63,7 +63,7 @@ In Azure App Service, an application runs in an Azure App Service plan. An App S
 - use action groups to notify users when an alert triggers
 - use Log Analytics in the Azure portal to configure their input data sources and conduct queries for their Azure Monitor logs. Log Analytics supports the Kusto Query Language (KQL).
 
-## Network watcher
+### Network watcher
 - use Azure Network Watcher to monitor, diagnose, and gain insight into their network health and performance.
 
 ![Alt text](<Azure Monitor.png>)
