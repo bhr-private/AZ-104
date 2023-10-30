@@ -58,6 +58,8 @@ In Azure App Service, an application runs in an Azure App Service plan. An App S
 - Compare the MARS agent and Azure Backup Server https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-backups/8-compare-backup-options
 
 ## Azure Monitor
+![Alt text](<Azure Monitor.png>)
+
 - Azure Monitor provides you with a comprehensive solution for collecting, analyzing, and responding to telemetry data from your on-premises and cloud environments. 
 - use Azure Monitor to receive alerts for their monitored applications and resources
 - use action groups to notify users when an alert triggers
@@ -66,5 +68,5 @@ In Azure App Service, an application runs in an Azure App Service plan. An App S
 ### Network watcher
 - use Azure Network Watcher to monitor, diagnose, and gain insight into their network health and performance.
 
-![Alt text](<Azure Monitor.png>)
+
 
