@@ -48,3 +48,6 @@ In Azure App Service, an application runs in an Azure App Service plan. An App S
 - Azure Virtual Network peering lets you connect virtual networks in the same or different regions, so resources in both networks can communicate with each other.
 - Azure Private Link provides private connectivity from a virtual network to Azure platform as a service (PaaS), customer-owned, or Microsoft partner services. 
 
+## Load Balancers
+- The load balancer uses a five-tuple (source IP, source port, destination IP, destination port, and protocol type) hash to map traffic to available servers.
+- Azure Application Gateway is a load balancer for web traffic.
