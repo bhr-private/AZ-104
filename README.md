@@ -51,3 +51,20 @@ In Azure App Service, an application runs in an Azure App Service plan. An App S
 ## Load Balancers
 - The load balancer uses a five-tuple (source IP, source port, destination IP, destination port, and protocol type) hash to map traffic to available servers.
 - Azure Application Gateway is a load balancer for web traffic.
+
+## Monitor and back up Azure resources 
+- implement the Microsoft Azure Recovery Services (MARS) agent for Azure Backup to recover their data from the Microsoft Azure cloud.
+- MARS for Windows OS, back up Linux Azure VMs with the Linux Azure VM agent ( waagent)
+- Compare the MARS agent and Azure Backup Server https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-backups/8-compare-backup-options
+
+## Azure Monitor
+- Azure Monitor provides you with a comprehensive solution for collecting, analyzing, and responding to telemetry data from your on-premises and cloud environments. 
+- use Azure Monitor to receive alerts for their monitored applications and resources
+- use action groups to notify users when an alert triggers
+- use Log Analytics in the Azure portal to configure their input data sources and conduct queries for their Azure Monitor logs. Log Analytics supports the Kusto Query Language (KQL).
+
+## Network watcher
+- use Azure Network Watcher to monitor, diagnose, and gain insight into their network health and performance.
+
+![Alt text](<Azure Monitor.png>)
+
